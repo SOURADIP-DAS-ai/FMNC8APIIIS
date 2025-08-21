@@ -21,7 +21,7 @@ namespace BHSNCJW.Controllers
         public IActionResult About()
         {
             string ss = " Update on : 25FEB2025; Add new endpoint For new table entity type by site id. Module : FMNC8; (Version 8.0.0)(Build No : 02252025.01)";
-            String ms = "This is publish on iis server and iis server is good";
+            String ms = "This is publish on iis server and iis server is good1";
             try
             {
                 return Ok(ss+ms);
