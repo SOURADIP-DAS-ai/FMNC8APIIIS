@@ -1,0 +1,6 @@
+@BHSAPIBaseNC8_HostAddress = http://localhost:5062
+
+GET {{BHSAPIBaseNC8_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
